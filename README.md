@@ -1,1 +1,2 @@
-<input type = "text"/>
+Name:<input type = "text"/>
+Surname:<input type = "passwordt"/>
